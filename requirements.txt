@@ -1,0 +1,7 @@
+huggingface_hub
+transformers
+torch
+python-dotenv
+accelerate
+langchain
+langchain_community
