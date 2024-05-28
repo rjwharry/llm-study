@@ -5,3 +5,9 @@ python-dotenv
 accelerate
 langchain
 langchain_community
+sentence-transformers
+# conda install -c pytorch faiss-gpu
+chromadb
+langchainhub
+bs4
+gpt4all
