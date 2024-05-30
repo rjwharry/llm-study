@@ -11,3 +11,4 @@ chromadb
 langchainhub
 bs4
 gpt4all
+SQLAlchemy
