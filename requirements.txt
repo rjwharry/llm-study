@@ -38,3 +38,7 @@ tiktoken
 spaCy
 nltk
 konlpy
+rank_bm25
+deeplake
+lark
+kiwipiepy
