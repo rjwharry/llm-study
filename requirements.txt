@@ -4,7 +4,8 @@ torch
 python-dotenv
 accelerate
 langchain
-langchain_community
+langchain-community
+langchain-core
 sentence-transformers
 # conda install -c pytorch faiss-gpu
 chromadb
@@ -42,3 +43,6 @@ rank_bm25
 deeplake
 lark
 kiwipiepy
+langchain-huggingface
+umap-learn 
+scikit-learn

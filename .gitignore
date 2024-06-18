@@ -167,3 +167,5 @@ cython_debug/
 
 **/chroma/
 **/chroma_db/
+
+RAPTOR/
