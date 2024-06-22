@@ -46,3 +46,4 @@ kiwipiepy
 langchain-huggingface
 umap-learn 
 scikit-learn
+redis
