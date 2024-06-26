@@ -47,3 +47,4 @@ langchain-huggingface
 umap-learn 
 scikit-learn
 redis
+langchain-openai
